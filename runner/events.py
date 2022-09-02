@@ -1,4 +1,4 @@
-from arduous.messenger import messenger
+from runner.messenger import messenger
 
 
 class LoggerEvents:
